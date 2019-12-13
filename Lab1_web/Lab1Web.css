@@ -1,0 +1,58 @@
+.container {
+    padding: 16px;
+}
+
+input [type=password] {
+    width: 100%;
+    padding:15px;
+    margin: 12px;
+    display: inline-block;
+    border: none;
+    background: #a54f30;
+}
+
+
+.registerbtn{
+    background: #26ff1c;
+    color: #030102;
+    padding: 10px 10px;
+    margin: 10px 0px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.6;
+}
+.registerbtn:hover{
+    opacity:4;
+}
+form{
+
+}
+
+ol{
+    color: #a5211a;
+}
+td{
+    color: #a52234;
+}
+th{
+    color: #a52234;
+}
+
+tr{
+    background: #72a59c;
+}
+
+table{
+    border-color: #5e19a5;
+}
+
+hr{
+    border: 1px solid #85f169;
+    margin-bottom: 25px;
+}
+
+
+body{
+    background: #f16ebe;
+}
